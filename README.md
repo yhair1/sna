@@ -1,2 +1,3 @@
-# SNA
-SNA
+# SNA Intermediaries for Scale (IFS) networked improvement community (NIC)
+
+The purpose of this notebook is to replicate the findings from a survey of organizations within the Intermediaries for Scale (IFS) networked improvement community (NIC). The survey enabled AIR to produce a social network analysis of the interactions across the IFS NIC for the purposes of helping NIC members and Catalyst:Ed best identify resident knowledge experts, untapped resources, and current understanding of NIC network health. The orginal network analysis was performed using R and this excersise is needed to build new skills as a part of ongoing training on social network analysis.
